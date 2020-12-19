@@ -1,6 +1,6 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/projeto-accordion)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/projeto-menu)
 
-![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/projeto-accordion)
+![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/projeto-menu)
 
 ## Projeto Menu.
 
@@ -12,9 +12,9 @@ useState e Condicional
 
 ## Imagem do Projeto
 
-[projeto-accordion.netlify.app](https://projeto-accordion.netlify.app/)
+[projeto-menu.netlify.app](https://projeto-menu.netlify.app/)
 
-<img src="https://github.com/jefferson1984/projeto-accordion/blob/main/accordion2.png">
+<img src="https://github.com/jefferson1984/projeto-menu/blob/main/menu2.png">
 
 ## Reproduzir
 
